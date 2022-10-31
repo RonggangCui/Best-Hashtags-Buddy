@@ -1,0 +1,267 @@
+[
+    {
+        "categoryName": "Hot Tags",
+        "subCate": [
+            "Most Popular",
+            "Rising",
+            "Contest",
+            "Text"
+        ],
+        "subCateTags": [
+            ["#tagstagram", "#love", "#instagood", "#phtooftheday", "#picoftheday", "#fashion", "#happy", "#selfy", "#art", "#friends", "#fun", "#insradaily"],
+            ["#tagstagram", "#amazing", "#follow4follow", "#bestoftheday", "#likeforlike", "#instamood", "#style", "#funny", "#original", "#funny", "#cool"],
+            ["#tagstagram", "#contest", "#contestgiveaway", "#contestalert", "#contestprep", "#contesttime", "#contesrday", "#wincontest", "#instacontest", "#contestwinner"],
+            ["#tagstagram", "#text", "#textpost", "#textposts", "#screenshot", "#textscreenshot",  "#texts", "#funnytextpost", "#funnytext", "#funnytexts", "#textgram", "#message", "#messages"]
+        ]
+    },
+    {
+        "categoryName": "Animals",
+        "subCate": [
+           
+            "Dogs",
+            "Cats",
+            "Horses",
+            "Birds",
+            "Animals"
+        ],
+        "subCateTags": [
+            ["#tagstagram #dog #dogs #dogsofinstagram #dogoftheday #dogstagram #dogsofinstaworld #dogs_of_instagram #doglover #doge #doggy #doglovers #dogs_of_world #doggie #doggo #dogsofinsta #instadog #dogsandpals #mansbestfriend #doggie"],
+            ["#tagstagram #cat #cats #catsofinstagram #cats_of_instagram #catlover #catlovers #catstagram #catoftheday #catsoftheworld #catsoftheday #catsagram #cat_of_instagram #catloversclub #catlife #catslife #catphoto #catwoman #ilovecats #instacat"],
+            ["#tagstagram #horse #horses #horseback #horseworld #horseman #horseaddict #horephotography #horsemanship #horseofinstagram #horsephotographer #horsetraining #horseshowlife #horseoftheday #horsesofinstagram #horsecrazy #horseportrait #horsefashion #horsejumping #horseblogger"],
+            ["#tagstagram #birds #birdsofprey #birdsofinstagram #birdsofparadise #birds_matter #birdshots #birds_nature #birds_captures #birds_brilliance #birds_perfection  #birds_of_ig #birdspotting #birdsonearth #birds_illilife #birds_adored #birdsinging #birdsnest #birds_of_instagram #birdsplanet"],
+            ["#tagstagram #animal #animals #animalkingdom #animallovers #animallover #animalaugh #animales #animals_in_world #animalitos #animaldrawing #animalfanatics #animals_captures #animalshots #animal_fanatics #animalplanet #animalworld #animalsofinstagram #animalrights #loveanimals"]
+        ]
+    },
+    {
+        "categoryName": "Automibiles",
+        "subCate": [
+            "Auto",
+            "Cars",
+            "Suvs",
+            "Off-Road"
+        ],
+        "subCateTags": [
+            ["#auto #autodetailing #automotive #autos #automotivo #autodetail #tagstagram #tagsta_auto  #tagsta #tagstagramers #automobiles #automobile #automotivedesign #autoworld #autosport #cars #carlovers #carspotter #carinstagram #autodetailer #carcare"],
+            ["#car #cars #carlifestyle #carswithoutlimits #carsofinstagram #carspotting #tagstagram #tagsta_auto #tagsta #tagstagramers #carstagram #carsforsale #carsandcoffee #carspotters #carsoftheday #carshow #carswithoutlimit #carspushingthelimits #carspot #dailycars #carslovers"],
+            ["#suv #luxurysuv #suvlife #suvs #bigcar #bigcars #tagstagram #tagsta_auto  #tagsta #tagstagramers #lexus #bmw #mercedesbenzamg #mercedesgle #rollsroycecullinan #g63amg #rangeroverworld #carshopping #premiumcars #carsales #compactsuv"],
+            ["#offroad #offrading #offroadtrip #offroadclub #offroads #offroadbike #tagstagram #tagsta_auto  #tagsta #tagstagramers #offroaders #offroadnation #offroader #offroadtrailer #offroad4x4 #offroadracing #offroadlife #offroadlights #offroadlovers #offroadwheels #offroadgirls"]
+        ]
+    },
+    {
+        "categoryName": "Events",
+        "subCate": [
+            "Party",
+            "Engagement",
+            "Wedding",
+            "Newborn"
+        ],
+        "subCateTags": [
+            ["#party #partydecorations #partyplanner #partyparty #partydress #partygirls #tagstagram #partyideas #tagsta_events #tagstagramers #partytime #tagsta #partylife #partyfood #partybus #partypartyparty #partystyling #partying #partykids #partyfavors #partydecor #partymusic #partyplanning #partynight"],
+            ["#engaged #engagedlife #engagedcouple #justengaged #engagednotcaged #engagedandinspired #tagstagram #engagedtothedetails #tagsta_events #tagstagramers #engagedcouples #tagsta #engagedaf #newlyengaged #engagementring #engagementphotos #engagementrings #engagementparty #engagement #engagementshoot #engagementphotoshoot #engagements #engagementday #engagementphotographer"],
+            ["#wedding #weddingdress #weddingphotography #weddinghair #weddingrings #weddingday #tagstagram #weddingmakeup #tagsta_events #tagstagramers #weddingwire #tagsta #weddingcake #weddingbells #weddingdecor #weddings #weddingdresses #weddingnails #weddinginspiration #weddinginvitations #weddinginspo #weddingflowers #weddingguest #weddinggown"],
+            ["#newborn #newbornphotography #newbornbaby #newbornboy #newborngirl #newbornclothes #tagstagram #newbornart #tagsta_events #tagstagramers #newborns #tagsta #newbornphotographer #newbornposing #baby #babyfever #babyshower #babyboy #babies #babygirl #babylove #babyfashion #babyface #babyroom"]
+        ]
+    },
+    {
+        "categoryName": "Fitness",
+        "subCate": [
+            "Yoga",
+            "Lifting",
+            "Working Out",
+            "Sailing",
+            "Meditation"
+        ],
+        "subCateTags": [
+            ["#yoga #yogis #tagstagram #yogaposes #yogagirl #tagsta #yogainspiration #yogalife #tagstagramers #yogafit #yogaeverydamnday #yogapractice #yogateacher #yogabody #yogaeverywhere #yogaeveryday #yogajourney #yogatribe #yogachallenge #yogafun #yogaoutside #yogaprogress #yogafam"],
+            ["#lifting #liftingweights #tagstagram #liftingmotivation #liftingmemes #tagsta #liftinglife #deadlifting #tagstagramers #fitness #liftingheavy #liftingshoes #liftingladies #crosslifting #liftingislife #olympiclifting #weightlifting #weights #workout #lift #heavylifting #liftingmom #liftingweight"],
+            ["#workingout #workout #tagstagram #workingoutathome #workingoutisfun #tagsta #workingoutwithkids #workingouthard #tagstagramers #workingoutismydrug #workingoutpaysoff #workingitout #workingoutismytherapy #loveworkingout #workoutroutine #workoutmotivation #workouts #workoutvideos #workoutvideo #workouttime #workoutathome #workoutclothes #workoutoftheday"],
+            ["#sailing #sailinglife #tagstagram #sailingday #sailinglovers #tagsta #sailingboat #sailingholiday #tagstagramers #sailingvessel #sailingschool #sailingphotography #sailinginstagram #sailingfamily #sailingboats #sailingtime #sailingpassion #sailinglove #sailingadventure #sailingyacht #sailingworld #sailingtrip #sailingaway"],
+            ["#meditate #meditatedaily #tagstagram #meditated #meditateeveryday #tagsta #meditating #meditateeverydamnday #tagstagramers #meditateanywhere #meditateonthis #meditatetoelevate #howtomeditate #doyoumeditate #meditation #meditations #meditationspace #meditationroom #meditationquotes #meditationiskey #meditationcoach #meditationmusic #meditationteacher"]
+        ]
+    },
+    {
+        "categoryName": "Food",
+        "subCate": [
+            "Food",
+            "Drinks",
+            "Pizza",
+            "Sushi",
+            "Wine",
+            "Coffee",
+            "Salad",
+            "Dessert"
+        ],
+        "subCateTags": [
+            ["#tagstagram #foodporn #food #foodphotography #foodie #foodgasm #foods #foody #foodography #foodstagram #foodlover #foodblogger #foodies #foodtruck #healthyfood #foodheaven #foodbeast #foodstyling #foodblogfeed #foodoftheday"],
+            ["#tagstagram #drink #drinks #drinking #drinkup #drinkwater #drinkin #drinkcoffee #drinkyourgreens #drinkers #drinkoftheday #drinksofinstagram #drinkchamps #drinkinggames #drinkstagram #drinkspecials #drinklocalbeer #drinkfresh #drinktea #drinkmorewater"],
+            ["#tagstagram #pizza #pizzahut #pizzatime #pizzalover #pizzamania #pizzapizza #pizzagourmet #pizzapizzapizza #dailypizza #pizzaholic #pizzacasera #pizzaitaliana #pizzapie #pizzaman #pizzaday #pizzadelivery #lovepizza #pizzalovers #pizzaforever"],
+            ["#tagstagram #sushi #sushiburrito #sushitime #sushirolls #sushiclub #sushiman #sushisushi #sushimania #sushibar #sushis #sushico #sushii #sushimaki #sashimi #sushibox #sushiart #ilovesushi #sushilover #sushiaddict"],
+            ["#tagstagram #wine #winetasting #winelover #winelovers #winery #winenight #wines #winewinewine #winecountry #winemaking #vino #wineo #winehouse #winestagram #winer #winetravel #wineblogger #wineaddict #winetime"],
+            ["#tagstagram #coffee #butfirstcoffee #coffeequotes #coffeebar #coffeeshop #coffeeshops #coffeemaker #coffee_inst #coffeholic #coffehouse #coffee_time #coffeexample #coffeeart #coffeecoffeecoffee #coffeprops #coffeetime #coffeevibes #coffeelover #coffeeaddict"],
+            ["#salad #saladrecipe #saladsofinstagram #tagsta #salads #healthydinner #tagstagram #quinoasalad #healthyeats #tagsta_food #tagstagramers #roastedveggies #healthysalad #nutritiousfood #saladideas #saladlover #healthylunch #greensalad #vegetablesalad #kalesalad #eatyourcolors #chickensalad #cauliflowerrice"],
+            ["#tagstagram #dessert #desserttable #desserts #dessertporn #dessertpic #desserttables #dessertbae #dessertheaven #dessertmasters #dessertgram #dessertoftheday #dessertshots #dessertpics #desserttime #instadesserts #dessertbar #dessertart #dessertlover #dessertlovers"]
+        ]
+    },
+    {
+        "categoryName": "Friends",
+        "subCate": [
+            "Friends",
+            "Girls",
+            "Boys",
+            "Portrait"
+        ],
+        "subCateTags": [
+            ["#tagstagram #friend #friends #bff #bestfriend #friendshipgoals #friendshipquotes #friendships #friendzone #friendship #friendsday #friendly #friendsforever #friendsforlife #friendforlife #friendslove #friendforever #bffgoals #bffs #bff_goals"],
+            ["#tagstagram #girls #girl #girly #girlboss #girlpower #girlfriends #girlswithtattoos #girlsgeneration #girlsnight #girlsday #beauitfulgirls #beautiful #beauties #bikinigirl #girlswithmuscle #girlmom #girlsnightout #girlswhotravel #prettygirls"],
+            ["#tagstagram #boy #boys #boyfriend #boyfriends #boystyle #boyslove #instaboy  #hotboys #cuteboys #boyz #boysfashion #tomboystyle #cuteboy #hotboy #boylove #prettyboy #fitnessboy #bayboys #boyswithtattoos"],
+            ["#tagstagram #portrait #portraitphotography #portraitdrawing #portraittattoo #portraitpainting #portraits #portrait_mood #portraitmode #portrait_shots #portraitphoto #portrait_planet #portrait_today #portraiture #portrait_ig #selfie #portrait_perfection #portrait_universe #portraitstream #portraitinspiration"]
+        ]
+    },
+    {
+        "categoryName": "Gaming",
+        "subCate": [
+            "MMO",
+            "RPG",
+            "CARD",
+            "GAMING"
+        ],
+        "subCateTags": [
+            ["#mmorpg #mmo #rpg #mmoentertainment #tagsta #mmogaming #fortnite #tagstagram #mmogames #fortniteclips  #leagueoflegends #tagsta_gaming #worldofwarcraft #gamer #tagstagramers #gaming #gamergirl #gamergirl #gamerlife #gamermemes #virtualgaming #ffxivshadowbridges #arealmreborn #wowscreenshot"],
+            ["#rpg #rpggames #rpgcharacter #rpggame #tagsta #rpgmaker #rpgart #tagstagram #rpglife #roleplayinggame #gaming #tagsta_gaming #gamers #rpggamer #tagstagramers #mmorpg #finalfantasy #fantasyrpg #openrpg #mmo #roleplayinggames #roleplaygame #gamerlife #indiegamer"],
+            ["#cardgame #cardgames #tradingcardgame #pokemoncardgame #tagsta #pokemoncard #pokenmontradingcardgame #tagstagram #dragonballsupercardgame #dicegames #solitaire #tagsta_gaming #blackjack #gamer #tagstagramers #gaming #gamerlife #cardsagainsthumanity #cardslinger #tradingcards #playingcardcollector #cardsxiii #playingcards #baseballcards"],
+            ["#gaming #gamingcommunity #gamingsetups #gamingmemes #tagsta #gamingpc #gamingsetup #tagstagram #gaminglife #gamingclips #gamingposts #tagsta_gaming #gamingchannel #gamingchair #tagstagramers #gaminggear #gamer #gamergirl #gamersofinstagram #gamergirls #gamers #gamerlife #gamermemes #gamerpc"]
+        ]
+    },
+    {
+        "categoryName": "Luxury",
+        "subCate": [
+            "REAL ESTATE",
+            "YACHT",
+            "PRIVATE JET",
+            "MANSION"
+        ],
+        "subCateTags": [
+            ["#realestate #realestateagent #tagsta #realestateinvestor #realestateinvesting #tagstgramers #realestateblog #realestatestyle #realestatememes #tagstagram #realestatetips #realestatenews #realestateadvice #realestategoals #realestateporn #realestatesales #realestatevideo #realestatemiami #realestatephoto #realestateteam #realestatebrokers #realestateagents #realestatebroker"],
+            ["#yacht #yachtparty #tagsta #yachtmaster #yachtlife #tagstgramers #yachtweek #yachtweekcroatia #yachts #tagstagram #yachtcharter #yachtmanagement #yachttender #yachtphotography #yachtlover #boats #boatlife #boatliving #boatparty #boating #boat #boatlifestyle #boattrip"],
+            ["#privatejet #flyingprivate #tagsta #flyprivate #privatjetlife #tagstgramers #privatejets #privatejetcharter #privatejetlifestyle #tagstagram #jet #jetphotos #privateplane #flying #planes #privateplanes #jetcharter #vacation #onvacation #vacationmode"],
+            ["#mansion #mansions #tagsta #mansionparty #mansionhouse #tagstgramers #mansiongoals #housegoals #bighouses #tagstagram #mansionhomes #lifegoals #megamansion #mansionlife #luxurymansion #luxury #luxuryhome #mansionpoolparty #modernmansion #mansionmonday #billionairemansion #mansionmiami #igmansions"]
+        ]
+    },
+    {
+        "categoryName": "Movies",
+        "subCate": [
+            "HORROR",
+            "ACTION",
+            "DRAMA",
+            "COMEDY",
+            "SCI-FI",
+            "DOCUMENTAY"
+        ],
+        "subCateTags": [
+            ["#horror #horrormovies #horrorfilm #tagsta #horrorstories #horrormovie #tagsta_movies #horrorjunkie #horrorobsessed #tagstagram #tagstramers #horrorfan #movielover #moviefanatic #horrorclub #horrorfilms #instahorror #horrorart #slasherfilm #horrorfans #horrorcollection #horrorgram #horrorcommunity"],
+            ["#movielovers #movielover #actionmovies #tagsta #actionmovie #moviebuff #tagsta_movies #films #filmbuff #tagstagram #tagstramers #moviestowatch #actionfilm #jackiechan #moviemagic #actionhero #instamovies #scifimovies #newmovie #moviecritic #filmlover #filmlovers #filmmaking"],
+            ["#drama #dramamovie #favoritemovie #tagsta #movielover #movielovers #tagsta_movies #filmbuff #filmlovers #tagstagram #tagstramers #movierecommendation #filmreviews #filmreview #cinemaworld #movieaddict #movieblogger #moviestills #dramedy"],
+            ["#comedy #comedymovie #comedyfilm #tagsta #lovecomedy #indiefilmmakers #tagsta_movies #favoritemovie #comedymovies #tagstagram #tagstramers #filmreview #filmreviews #movietrailer #filmaddict #movielovers #moviefacts #movielover #moviestowatch #romanticcomedy #romcom"],
+            ["#scifi #scifiart #scifimovies #tagsta #scifimovie #scififantasy #tagsta_movies #scify #filmbuff #tagstagram #tagstramers #filmlover #movielover #movielovers #scifilover #cultmovie #scifidaily #scifiworld #dystopia #syfy #favoritemovie"],
+            ["#documentary #documentaryphotography #documentaryphotographer #tagsta #documentaryfilm #documentaryphoto #tagsta_movies #documentaryfilmmaking #documentaryfilms #tagstagram #tagstramers #documentaries #filmmakerslife #filmlovers #filmbuff #filmfestivals #filmcrew #filmfestival #cinematographer #socialdocumentary #filmmaking"]
+
+        ]
+    },
+    {
+        "categoryName": "Music",
+        "subCate": [
+            "ALTERNATIVE",
+            "RAP",
+            "R&B",
+            "POP",
+            "ROCK MUSIC",
+            "EDM",
+            "PODCAST",
+            "GUITAR",
+            "COUNTRY MUSIC"
+        ],
+        "subCateTags": [
+            ["#alternativemusic #alternativemusician #alternativerockmusic #tagstagram #tagstagramers #alternativerock #alternative_rock #tagsta  #alternativemetal #aternativepop #alt #tagsta_music #altrock #altpop #alternativebands #alternativesong #alternativelover #alternativesinger #alternativesingers #alternativesongs #altmusic #altsongs #altsinger #altsingers #alternativepop"],
+            ["#rap #tagstagram #tagstagramers #rapper #rapmusic #tagsta  #rappers #rapfreestyle #rapartist #tagsta_music #rapgame #rapbeats #raps #rapculture #rapbattle #rapnews #raplife #rapmonster #rapbeat #rapping #rapline #rapperlife #rapgod #rappers #rapperedits"],
+            ["#randb #randbmusic #tagstagram #tagstagramers #randbsoul #randbartist #tagsta  #randbsinger #soulmusic #soulmusiclovers #tagsta_music #soulmusiclives #soulartist #artistsoul #soulartistmgmt #soulsinger #soulsingers #randbsong #randbsongs #soulsong #soulsongs #randbband #soulband #randbsoulmix #soul"],
+            ["#popmusic #popmusician #popstar #popstars #tagstagram #tagstagramers #starpop #pop #tagsta  #popartist #poppunk #popculture #tagsta_music #poprock #popsinger #popband #popsingers #popbands #poprockband #popsong #popsongs #popstarz #popstarroyalty #popstarprincess #popalternative"],
+            ["#rock #rockmusic #rockmusicians #tagsta #rockmusician #rocknroll #tagstramers #rockmusik #rockmusical #tagstagram #tagsta_music #rockmusiclover #music #classicrockmusic #musikrock #rockandroll #rockandrollmusic #musicrock #hardrockmusic #alternativerockmusic #poprockmusic #rockband #rockbands"],
+            ["#edm #edmgirls #edmlifestyle #tagsta #edmdance #edmfestival #tagstramers #edmfamily #edmfam #tagstagram #tagsta_music #edmworld #edmaddict #edmlovers #edmsavedmylife #edmculture #edmvibes #loveedm #edmnation #edmnews #edmmusic #edmproducer #edmlife"],
+            ["#podcast #podcastersofinstagram #podcastlife #podcaster #tagsta #podcasts #podcasters #tagstagramers #podcasting #podcastingtips #podcastinglife #podcastmovement #tagstagram #podcastsofinstagram #podcastshow #podcastaddict #podcastlove #podcastnetwork #podcastapp #podcasthost #podcastersunite #podcastcommunity #podcaststudio"],
+            ["#guitar #guitarplayer #playguitar #tagsta #guitarsolo #guitarist #tagstramers #guitars #guitarphotography #tagstagram #tagsta_music #guitarplayers #guitareffects #guitarlicks #guitarshop #guitardaily #music #instamusic #guitarpedals #guitarlesson #guitarstagram #guitarpedal #guitarworld"],
+            ["#country #lovecountry #countrymusic #tagsta #countrymusicfestival #countrymusicsinger #tagstramers #countrymusicfan #countrymusician #tagstagram #tagsta_music #countrymusicfans #countrymusicrocks #countryconcert #countrymusicislife #countrymusicvideo #countrymusiclyrics #countrymusicartist #countrymusichalloffame #countrymusiclover #countrysinger #classiccountry #countrysong"]
+        ]
+    },
+    {
+        "categoryName": "Nature",
+        "subCate": [
+            "SUMMER",
+            "WINTER",
+            "FALL",
+            "SPRING",
+            "SUNSET",
+            "CLOUDS",
+            "BEACH",
+            "SEA&OCEAN",
+            "MOUNTAIN"
+        ],
+        "subCateTags": [
+            ["#summer #summer2020 #summertime #summervibes  #tagsta #summerday #summerbody #tagstagram #summers #summerholiday #summerfeeling #tagsta_nature #summermemories #summernights #tagstagramers #summerweather #summercolors #summerbreeze #summerholidays #summerfashion #summernight #summertrip #summergoals  #summerready"],
+            ["#winter #winterwonderland #winterfashion #winter2020 #tagsta #winteroutfit #winteroutfits #tagstagram #winters #wintersun #winterweather #tagsta_nature #winterholiday #winterlandscape #tagstagramers #winterwarmer #winterbreak #winterphotography #winterseason #winteriscoming #wintervacation #winterstyle #wintermorning #wintergetaway"],
+            ["#fall #autumn #fallfashion #fallcolors #tagsta #fallcollection #fallphotography #tagstagram #falldecorations #fallweather #falldecor #tagsta_nature #fallphotoshoot #falltime #tagstagramers #falldecorating #fallstyle #fallmakeup #falllook #fallwinter #fallfeels #fallleaves #falllooks #fall2020"],
+            ["#spring #springiscoming #spring2020 #springfashion #tagsta #springbreak #springdecor #tagstagram #springstyle #springflowers #springtime #tagsta_nature #springsummer #springwedding #tagstagramers #springcolors #springlook #springcleaning #springcollection #springoutfit #springvibes #springflowers #springblooms #springgarden"],
+            ["#tagstagram #sunset #sunsets #sunsetlover #sunset_pics #sunsetbeach #sunsetparty #beautiful #beauty #views #sunset_love #sunsetcliffs #sunet_hunter #sunset_ig #sunset_rv #sunset_madness_ #sunset_universe #sunset_hub #sunset_today #sunset_stream"],
+            ["#tagstagram #cloud #clouds #cloudslime #cloud9 #cloudzdelight #cloudy #cloudnine #cloudsession_ #cloud_skye #cloudporn #instacloud #cloudshapes #cloudsky #sky #sky_brilliance #cloudsinthesky #skyclouds #skyandclouds #skylovers_clouds #cloudsky #skycloudsandsunshine #coolclouds #skyfullofclouds #nocloudsinthesky #cloudsarecool #cloudscape #cloudsurfing #cloudstagram #cloudsurfer #clouds_of_our_world #skyclouds #cloudsporn #cloudslovers #cloudslover #cloudsphotography #cloudsinthesky #cloudsurfers #clouds4days"],
+            ["#tagstagram #beach #beachbody #beachbabe #beachbabes #beachwaves #beachwear #beaches #beachclub #beachlife #beachfront #views #beautiful #beachwalk #beachside #ocean #oceanview #beachcomber #beachparty #beaching"],
+            ["#tagstagram #sea #ocean #seascape #seaside #oceaneyes #oceanwaves #oceans #oceandrive #discoverocean #oceanside #oceanart #oceanfront #oceanbeach #oceanlovers #oceanlife #oceanlover #oceanlove #oceantherapy #oceanminded"],
+            ["#tagstagram #mountain #mountains #mountain_world #mountaineering #mountainviews #mountainside #mountainbike #mountaintop #mountainphotography #mountainlover #mountainrunning #mountainstones #mountainstories #mountaintown #mountainview #mountainvibes #mountainclimbing #mountaingirls #mountainlife"]
+        ]
+    },
+    {
+        "categoryName": "Photos",
+        "subCate": [
+            "MACRO",
+            "HDR",
+            "EDITS",
+            "FISH EYE"
+        ],
+        "subCateTags": [
+            ["#tagstagram #macros #macro #macrocounting #macrophotography #countingmacros #macro_captures_ #macro_love #macro_x #macro_world #macro_creative_pictures #macromania #macrophotos #macro_flower #macroshot #macrophoto #macrophotographyworld #macrogrammers #photography #macrolovers"],
+            ["#tagstagram #hdr #hdrphotography #hdrfreak #hdrspotters #hdrphoto #hdrimage #hdrmania #hdrfusion #hdrstyles #hdrart #hdr_igers #hdri #hdroftheday #hdriphonegraphy #hdr_and_sunsets #hdriphoneographer #hdr_addiction #hdrphotos #hdrphoto"],
+            ["#tagstagram #edits #edit #editz #editor #supernaturaledits #editing #edited #loveedits #edit_perfection #editors #edits_bnw #btsedits #editsounds #editaudios #vsedit #instagramedits #photographyedits #photoedits #pictureedits"],
+            ["#tagstagram #fisheye #fisheyelens #fisheyephoto #fisheyephotography #fisheyes #fisheye_world #fisheye_effect #fisheyemag #photography #photos #8mmfisheye #fisheyelense #fisheyecamera #fisheyewide  #fisheyesamsung #fisheyeandroid #fisheyeiphone #superfisheye #lensfisheye"]
+        ]
+    },
+    {
+        "categoryName": "Travel",
+        "subCate": [
+            "TRAVEL",
+            "LONDON",
+            "VACATION",
+            "SPAIN",
+            "AUSTRALIA",
+            "SWEDEN",
+            "ITALY",
+            "BAZIL",
+            "HOTEL",
+            "FLIGHT",
+            "THAILAND",
+            "EUROPE"
+        ],
+        "subCateTags": [
+            ["#tagstagram #travel #travelphotography #travelblogger #travelling #travelholic #travelguide #traveling #travelgram #traveller #tagsta #tagstagramers #travels #traveler #travelbook #travellers #travelbag #travelers #travel_drops #traveldeeper #tagsta_travel #travelawesome"],
+            ["#tagstagram #london #londonfashion #londonfood #londoneye #londonbylondoners #london_city_photo #londoner #londondiaries #london_enthusiast #tagsta #tagstagramers #londonphotography #londoncityworld #londonart #londonstreets #londonarchitecture #londonforyou #londonstyle #london_only #londonfoodie #londonsbest"],
+            ["#tagstagram #vacation #vacationmode #vacationstyle #vacationhair #vacationgoals #vacations #onvacation #vacationhome #vacationtime #tagsta #tagstagramers #vacationmodeon #vacationmode #vacationlife #vacationland #vacationvibes #vacationfun #vacationing #vacationmood #tagsta_travel #vacation2019"],
+            ["#tagstagram #spain #spaintravel #spain_vacations #spaintourism #spainwedding #spain_gallery #spaingram #spainstagram #spainlove #tagsta #tagstagramers #spaintoday #spainlife #spain_in_bl #spainpassion #spaintattoo #spainfood #spain_greatshots #tagsta_travel #spain_photographs #spaintour"],
+            ["#tagstagram #australia #australian #australia_shotz #australiagram_nsw #australians #australia_oz #australiangirl #australiaday #australiagram #tagsta #tagstagramers #australiatrip #australianfashion #australiagirl #australianart #australianlabel #australianartist #australiafashion #tagsta_travel #australianmade #australianlife"],
+            ["#tagstagram #sweden #sweden_photolovers #swedenimages #swedennature #sweden_nature #sweden_images #sweden_by_us #swedenshots #swedentrip #tagsta #tagstagramers #backcountryofsweden #exploresweden #swedenphotolovers #madebysweden #swedenpower #idealofsweden #travel #tagsta_travel #travelblogger #travelsweden"],
+            ["#italy #italia #italytravel #tagsta #tagstagram #italyfashion #italy_vacations #tagsta_travel #italywedding #italy_stop #italyvacation #italy_foods #tagstagramer #italyfood #italywedding #italy_creative_pictures #italy_ig #italyfoodporn #italylovers #italytourism #italyiloveyou #iloveyouitaly #italy_photolovers"],
+            ["#brazil #braziliangirl #brazilgram_ #tagsta #tagstagram #brazil_photolovers #brazilians #tagsta_travel #brazilian #travelbrazil #visitbrazil #triptobrazil #tagstagramer #southamerica #riosunset #visitbrasil #rioilove #brasil_greatshots #brasil #riodejaniero #riodejaneiro #turismobrasil #travelbrasil"],
+            ["#hotels #hotel #besthotel #tagsta #tagstagram #hotellife #hotelliving #tagsta_travel #hotelrooms #hotelroom #luxuryhotel #hotelview #tagstagramer #hotellobby #hoteldesign #hotelstory #hotelreview #favoritehotel #beautifulhotel #hotelblogger #resorts #hotelrooms #hotelsoftheworld"],
+            ["#travel #traveling #airplane #tagsta #tagstagram #airplanes #airplanewindow #tagsta_travel #airplane_pics #lovetotravel #airplane_lovers #travellovers #tagstagramer #airplane_pictures #airplanelovers101 #airplanelovers #airplanephotos #airplanephotography #airplanefood #takeflight #flights #flight #travels"],
+            ["#thailand #thailandislands #travelthailand #tagsta #tagstagram #changmai #bangkok #tagsta_travel #kohtao #kohphiphi #thailandtravel #southeastasia #tagstagramer #thailandia #thailand_allshots #thailandonly #thailandinstagram #thailandshopping #visitthailand #thailandtrip #amazingthailand #phuketthailand #thailandtravels"],
+            ["#europe #eurotravel #europetravel #tagsta #tagstagram #europe_greatshots #europe_vacations #tagsta_travel #europe_pics #europe_perfection #europe_ig #europe_tourist #tagstagramer #traveladdict #travellover #europe_gallery #europetravels #exploreeurope #travellingeurope #europe_vacation #visit_europe #visiteurope #citiesofeurope"]
+        ]
+    }
+
+]
