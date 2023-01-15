@@ -25,6 +25,7 @@ Below is the storyboard design of the app.
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/main.png"></a>
   </p>
 </div>
+
 #### After selecting a categary, you can see hashtages under several sub-categories.
 <div align="left">
   <p>
