@@ -12,7 +12,7 @@
 
 <div align="left">
   <p>
-    <img width="300" src="https://github.com/RomanCui/BigBrainModels/blob/main/assets/%20MNISTDDExamples.png"></a>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/storyboards.png"></a>
   </p>
 </div>
 
