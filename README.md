@@ -9,7 +9,8 @@
 </div>
 
 ## <div align="center">Software Design</div>
-
+This app is build in Swift. JSON files are used to store the hashtags text. Swift retrieve those hashtags from those JSON files as needed
+Below is the storyboard design of the app
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/storyboards.png"></a>
