@@ -11,7 +11,7 @@
 ## <div align="center">Software Design</div>
 This app is build in Swift. <br>
 JSON files are used to store the hashtags text. <br>
-Below is the storyboard design of the app
+Below is the storyboard design of the app.
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/storyboards.png"></a>
@@ -19,14 +19,40 @@ Below is the storyboard design of the app
 </div>
 
 ## <div align="center">User Manual</div>
+The home screen of this app has many hashtage categories. <br>
+Click to select a category that you are interested in.
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/main.png"></a>
+  </p>
+</div>
+After selecting a categary, you can see hashtages under several sub-categories.
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/nature.png"></a>
+  </p>
+</div>
+You can then copy a group of hashtages with the copy button.
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/copy.png"></a>
+  </p>
+</div>
+Also, you can then add a group of hashtages in your favorites list.
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/favorite.png"></a>
+  </p>
+</div>
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/favoritepage.png"></a>
+  </p>
+</div>
+Other features of this app are on the "More" page
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/more.png"></a>
+  </p>
+</div>
 
-1. **kNN** model with MNIST dataset (Accuracy: 96%)
-2. **Multiple logistic regression** on MNIST (Accuracy: 91%) and CIFAR10 (Accuracy: 38%)
-3. **Fully Connected Network** on MNIST (Accuracy: 95%)
-4. **Convolution Nurual Network** on CIFAR10 (Accuracy: 65%)
-5. **Object Detection** on MNISTDD-RGB (Accuracy: Classification 98%, IOU 89%)
-6. **Image Segmentaion** on MNISTDD-RGB (Accuracy: 94%)
-
-## 1. kNN model with MNIST dataset
-Codebase: https://github.com/RomanCui/BigBrainModels/tree/main/K-NN <br>
-Running instruction: upload knn_on_MNIST.ipynb to google colab and run with gpu
