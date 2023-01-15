@@ -10,6 +10,12 @@
 
 ## <div align="center">Software Design</div>
 
+<div align="left">
+  <p>
+    <img width="300" src="https://github.com/RomanCui/BigBrainModels/blob/main/assets/%20MNISTDDExamples.png"></a>
+  </p>
+</div>
+
 ## Summary of programs
 
 1. **kNN** model with MNIST dataset (Accuracy: 96%)
