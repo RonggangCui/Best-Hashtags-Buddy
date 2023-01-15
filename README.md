@@ -19,7 +19,9 @@ Below is the storyboard design of the app.
 </div>
 
 ## <div align="center">User Manual</div>
+
 #### The home screen of this app has many hashtage categories. Click to select a category that you are interested in.
+
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/main.png"></a>
@@ -27,18 +29,23 @@ Below is the storyboard design of the app.
 </div>
 
 #### After selecting a categary, you can see hashtages under several sub-categories.
+
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/nature.png"></a>
   </p>
 </div>
+
 #### You can then copy a group of hashtages with the copy button.
+
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/copy.png"></a>
   </p>
 </div>
+
 #### Also, you can then add a group of hashtages in your favorites list.
+
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/favorite.png"></a>
@@ -49,7 +56,9 @@ Below is the storyboard design of the app.
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/favoritepage.png"></a>
   </p>
 </div>
+
 #### Other features of this app are on the "More" page
+
 <div align="left">
   <p>
     <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/more.png"></a>
