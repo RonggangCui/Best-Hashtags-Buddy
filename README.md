@@ -18,7 +18,7 @@ Below is the storyboard design of the app
   </p>
 </div>
 
-## Summary of programs
+## <div align="center">User Manual</div>
 
 1. **kNN** model with MNIST dataset (Accuracy: 96%)
 2. **Multiple logistic regression** on MNIST (Accuracy: 91%) and CIFAR10 (Accuracy: 38%)
