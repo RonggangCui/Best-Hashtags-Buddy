@@ -9,8 +9,8 @@
 </div>
 
 ## <div align="center">Software Design</div>
-This app is build in Swift. 
-JSON files are used to store the hashtags text.
+This app is build in Swift. <br>
+JSON files are used to store the hashtags text. <br>
 Below is the storyboard design of the app
 <div align="left">
   <p>
