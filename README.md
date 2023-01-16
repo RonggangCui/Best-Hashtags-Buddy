@@ -1,6 +1,6 @@
 ## <div align="center">Best Hashtags for Instagram</div>
 
-<div align="center">
+<div align="left">
   <p>
      This app helps you to find trendy hashtags and copy and paste it to instagram or other social apps.
   </p>
@@ -8,7 +8,7 @@
   
 </div>
 
-## <div align="center">Software Design</div>
+## <div align="left">Software Design</div>
 This app is build in Swift and only available for iOS users <br>
 JSON files are used to store the hashtags text. <br>
 Below is the storyboard design of the app.
@@ -18,7 +18,7 @@ Below is the storyboard design of the app.
   </p>
 </div>
 
-## <div align="center">User Manual</div>
+## <div align="left">User Manual</div>
 
 #### The home screen of this app has many hashtage categories. Click to select a category that you are interested in.
 
