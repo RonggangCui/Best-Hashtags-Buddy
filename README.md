@@ -14,7 +14,7 @@ JSON files are used to store the hashtags text. <br>
 Below is the storyboard design of the app.
 <div align="left">
   <p>
-    <img width="300" src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/storyboards.png"></a>
+    <img src="https://github.com/RonggangCui/InstaHash/blob/main/docs/assets/storyboards.png"></a>
   </p>
 </div>
 
