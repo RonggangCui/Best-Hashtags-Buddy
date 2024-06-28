@@ -10,7 +10,6 @@
 
 ## <div align="center">Software Design</div>
 This app is build in Swift and only available for iOS users <br>
-JSON files are used to store the hashtags text. <br>
 Below is the storyboard design of the app.
 <div align="left">
   <p>
