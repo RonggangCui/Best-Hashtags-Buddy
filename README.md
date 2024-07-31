@@ -1,4 +1,4 @@
-## <div align="center">Best Hashtags for Instagram</div>
+## <div align="center">Best Hashtags</div>
 
 <div align="center">
   <p>
