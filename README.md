@@ -1,4 +1,4 @@
-## <div align="center">Best Hashtags</div>
+## <div align="center">Best Hashtags Buddy</div>
 
 <div align="center">
   <p>
